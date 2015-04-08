@@ -13,7 +13,7 @@
  - 英语水平：CET-6
  - 技术博客：https://www.anotherhome.net
  - Github：https://github.com/DIYgod
- - 期望职位：
+ - 期望职位：后端实习生
 
 ---
 
