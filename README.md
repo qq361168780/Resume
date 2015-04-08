@@ -21,7 +21,7 @@
 
 ## 开源项目
 
- - [Show Me the Code Python version](https://github.com/Show-Me-the-Code/python/tree/master/DIYgod) : 本人参与学习并贡献源码的一个Python开源项目，所有题目在 [这里](https://github.com/Show-Me-the-Code/show-me-the-code)，其中包括了 图像处理 数据库 文件操作 正则式 等内容。
+ - [Show Me the Code Python version](https://github.com/Show-Me-the-Code/python/tree/master/DIYgod) : 本人参与学习并贡献源码的一个Python开源项目，其中包括了 图像处理 数据库 文件操作 正则式 等内容。
  - [Simple-C Compiler](https://github.com/DIYgod/Compiler) : 一个用C编写的简单类C语言编译器，目前只完成了 词法分析 语法分析 阶段，前端用了 Lex Yacc 工具。
  - [EasyGoAgent](https://github.com/DIYgod/EasyGoAgent) : 开箱即用&在线更新的GoAgent，Star 70 Fork 18。
  - [WHUTNews](https://github.com/DIYgod/WHUTNews) : Python 编写的爬取教务处公告，判断是否有新通知，并把新通知发邮件提醒的简单 Python 爬虫程序
